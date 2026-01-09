@@ -16,7 +16,7 @@ draw = function(){
 
 
 
-
+  //Show x y values when mousepressed
   if(mousePressed){showXYPositions();}
 
 }
